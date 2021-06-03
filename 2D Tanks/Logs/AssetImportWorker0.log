@@ -74,3 +74,412 @@ Received Import Request.
 Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.003492 seconds
   Import took 0.030792 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001143 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.769 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.8 MB.
+System memory in use after: 84.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2255.
+Total: 1.950600 ms (FindLiveObjects: 0.198300 ms CreateObjectMapping: 0.064900 ms MarkObjects: 1.592400 ms  DeleteObjects: 0.094100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001283 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.794 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.9 MB.
+System memory in use after: 84.8 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2259.
+Total: 1.955100 ms (FindLiveObjects: 0.154900 ms CreateObjectMapping: 0.046100 ms MarkObjects: 1.667400 ms  DeleteObjects: 0.086000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1315.329624 seconds.
+  path: Assets/Resources/KennyAssets/TanksRedux/Tilesheet/terrainTiles_default.png
+  artifactKey: Guid(9f5d023a20a746645be8fb93f5e5313a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/KennyAssets/TanksRedux/Tilesheet/terrainTiles_default.png using Guid(9f5d023a20a746645be8fb93f5e5313a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '187e74f4e8ee94b73d040ff32b103a51') in 0.113284 seconds
+  Import took 0.116592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.129564 seconds.
+  path: Assets/Resources/KennyAssets/TanksRedux/Tilesheet/terrainTiles_default.png
+  artifactKey: Guid(9f5d023a20a746645be8fb93f5e5313a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/KennyAssets/TanksRedux/Tilesheet/terrainTiles_default.png using Guid(9f5d023a20a746645be8fb93f5e5313a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd25c5218ceaa29b3a7b2164a7eb5df6') in 0.007894 seconds
+  Import took 0.010372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.846420 seconds.
+  path: Assets/Resources/KennyAssets/TanksRedux/Tilesheet/terrainTiles_default.png
+  artifactKey: Guid(9f5d023a20a746645be8fb93f5e5313a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/KennyAssets/TanksRedux/Tilesheet/terrainTiles_default.png using Guid(9f5d023a20a746645be8fb93f5e5313a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '102f7b451c7fad598258ea746ade09be') in 0.056312 seconds
+  Import took 0.059027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1339.326641 seconds.
+  path: Assets/Resources/KennyAssets/TanksRedux/Tilesheet/terrainTiles_retina.png
+  artifactKey: Guid(974b739f9de648e499cc8bbbc0ddad78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/KennyAssets/TanksRedux/Tilesheet/terrainTiles_retina.png using Guid(974b739f9de648e499cc8bbbc0ddad78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47f122b2fe6900cdc8d823f25fe57eb3') in 0.009063 seconds
+  Import took 0.012700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000510 seconds.
+  path: Assets/Resources/KennyAssets/TanksRedux/Tilesheet/terrainTiles_retina.png
+  artifactKey: Guid(974b739f9de648e499cc8bbbc0ddad78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/KennyAssets/TanksRedux/Tilesheet/terrainTiles_retina.png using Guid(974b739f9de648e499cc8bbbc0ddad78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47f122b2fe6900cdc8d823f25fe57eb3') in 0.007869 seconds
+  Import took 0.010324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 117.055132 seconds.
+  path: Assets/Resources/KennyAssets/TanksRedux/Spritesheet
+  artifactKey: Guid(effba5c8171212c448a321c1cf6467ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/KennyAssets/TanksRedux/Spritesheet using Guid(effba5c8171212c448a321c1cf6467ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f57d1ae3be640da1d8955998e0f0ca6') in 0.001538 seconds
+  Import took 0.003945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000487 seconds.
+  path: Assets/Resources/KennyAssets/TanksRedux/Spritesheet
+  artifactKey: Guid(effba5c8171212c448a321c1cf6467ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/KennyAssets/TanksRedux/Spritesheet using Guid(effba5c8171212c448a321c1cf6467ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f57d1ae3be640da1d8955998e0f0ca6') in 0.001577 seconds
+  Import took 0.004179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.128515 seconds.
+  path: Assets/Resources/KennyAssets/TanksRedux/Spritesheet/onlyObjects_default.png
+  artifactKey: Guid(54e9e7eefba57454980ca4b167522f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/KennyAssets/TanksRedux/Spritesheet/onlyObjects_default.png using Guid(54e9e7eefba57454980ca4b167522f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f9463b7360931357058867fbfc83418') in 0.011614 seconds
+  Import took 0.014164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001334 seconds.
+  path: Assets/Resources/KennyAssets/TanksRedux/Spritesheet/onlyObjects_default.png
+  artifactKey: Guid(54e9e7eefba57454980ca4b167522f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/KennyAssets/TanksRedux/Spritesheet/onlyObjects_default.png using Guid(54e9e7eefba57454980ca4b167522f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f9463b7360931357058867fbfc83418') in 0.009478 seconds
+  Import took 0.012119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.569666 seconds.
+  path: Assets/Resources/KennyAssets/TanksRedux/Spritesheet/onlyObjects_default.png
+  artifactKey: Guid(54e9e7eefba57454980ca4b167522f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/KennyAssets/TanksRedux/Spritesheet/onlyObjects_default.png using Guid(54e9e7eefba57454980ca4b167522f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dbc91bdd8b15aa8eee78a48a68626fa') in 0.007675 seconds
+  Import took 0.010782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 81.514408 seconds.
+  path: Assets/Resources/Loek/sprite sheet auto slice example.png
+  artifactKey: Guid(8b8d1fdd043e917459d3789e80f97a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Loek/sprite sheet auto slice example.png using Guid(8b8d1fdd043e917459d3789e80f97a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f17821c29529112138fc87300f4a3152') in 0.014875 seconds
+  Import took 0.017476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.813918 seconds.
+  path: Assets/Resources/Loek/sprite sheet auto slice example.png
+  artifactKey: Guid(8b8d1fdd043e917459d3789e80f97a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Loek/sprite sheet auto slice example.png using Guid(8b8d1fdd043e917459d3789e80f97a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '264000100361ab1bb0fdf4e53cd31008') in 0.005309 seconds
+  Import took 0.007912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.345547 seconds.
+  path: Assets/Resources/Loek/sprite sheet auto slice example.png
+  artifactKey: Guid(8b8d1fdd043e917459d3789e80f97a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Loek/sprite sheet auto slice example.png using Guid(8b8d1fdd043e917459d3789e80f97a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '552691aa13761f5ff15fce782ba168c2') in 0.020941 seconds
+  Import took 0.023560 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001229 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.773 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.0 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2285.
+Total: 1.748200 ms (FindLiveObjects: 0.163100 ms CreateObjectMapping: 0.045400 ms MarkObjects: 1.456200 ms  DeleteObjects: 0.082900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 268.100938 seconds.
+  path: Assets/Editor/TextureAtlasSlicer_README.md
+  artifactKey: Guid(843c0cde8aeb57147bfc018ddcc21c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/TextureAtlasSlicer_README.md using Guid(843c0cde8aeb57147bfc018ddcc21c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f099e0e32f549b1668f84ebe02ece78') in 0.014244 seconds
+  Import took 0.016742 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003814 seconds.
+  path: Assets/Editor/TextureAtlasSlicer_README.md
+  artifactKey: Guid(843c0cde8aeb57147bfc018ddcc21c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/TextureAtlasSlicer_README.md using Guid(843c0cde8aeb57147bfc018ddcc21c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f099e0e32f549b1668f84ebe02ece78') in 0.001829 seconds
+  Import took 0.004150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.116837 seconds.
+  path: Assets/Editor/TextureAtlasSlicer.cs
+  artifactKey: Guid(2067bd0762faf2c48910fee768c92901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/TextureAtlasSlicer.cs using Guid(2067bd0762faf2c48910fee768c92901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b28bd418db01e44cb2a7c738872d4f9') in 0.002654 seconds
+  Import took 0.005103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036759 seconds.
+  path: Assets/Editor/TextureAtlasSlicer.cs
+  artifactKey: Guid(2067bd0762faf2c48910fee768c92901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/TextureAtlasSlicer.cs using Guid(2067bd0762faf2c48910fee768c92901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b28bd418db01e44cb2a7c738872d4f9') in 0.001616 seconds
+  Import took 0.004179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.783561 seconds.
+  path: Assets/Editor
+  artifactKey: Guid(e7eb0e69be10ca64cb912acdf7a14e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor using Guid(e7eb0e69be10ca64cb912acdf7a14e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37c5d34c8a3bbbb3af0e23082047ca44') in 0.001710 seconds
+  Import took 0.004260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000826 seconds.
+  path: Assets/Editor
+  artifactKey: Guid(e7eb0e69be10ca64cb912acdf7a14e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor using Guid(e7eb0e69be10ca64cb912acdf7a14e1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37c5d34c8a3bbbb3af0e23082047ca44') in 0.001581 seconds
+  Import took 0.004134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.603583 seconds.
+  path: Assets/Resources/KennyAssets/TanksRedux/Spritesheet/allSprites_default.xml
+  artifactKey: Guid(7d41f62f539b49246bb484a8514a1a37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/KennyAssets/TanksRedux/Spritesheet/allSprites_default.xml using Guid(7d41f62f539b49246bb484a8514a1a37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34bee4d98222d560a2c43b4dbbd92b6b') in 0.009672 seconds
+  Import took 0.026083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.957611 seconds.
+  path: Assets/Resources/KennyAssets/TanksRedux/Spritesheet/onlyObjects_default.png
+  artifactKey: Guid(54e9e7eefba57454980ca4b167522f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/KennyAssets/TanksRedux/Spritesheet/onlyObjects_default.png using Guid(54e9e7eefba57454980ca4b167522f9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7332bf66c15444e623af4220be060732') in 0.242346 seconds
+  Import took 0.245428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 220.624931 seconds.
+  path: Packages/com.unity.2d.animation
+  artifactKey: Guid(bb5c94055a953b6081dfc49350569eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.animation using Guid(bb5c94055a953b6081dfc49350569eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09fa518512abe465e781a54efa05d46a') in 0.001722 seconds
+  Import took 0.004711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.056518 seconds.
+  path: Assets/Resources/KennyAssets/TanksRedux/PNG
+  artifactKey: Guid(cf8d798e8e7cd0145b0eb0238715ec2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/KennyAssets/TanksRedux/PNG using Guid(cf8d798e8e7cd0145b0eb0238715ec2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e41c16e72e7178a270faff239757cca') in 0.002188 seconds
+  Import took 0.005299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.197695 seconds.
+  path: Assets/Resources/KennyAssets/TanksRedux/Tilesheet
+  artifactKey: Guid(c05573080e00e324c8f36a1dd7088ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/KennyAssets/TanksRedux/Tilesheet using Guid(c05573080e00e324c8f36a1dd7088ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11833799613d2b2017cdf06e83b50671') in 0.001964 seconds
+  Import took 0.004633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.315254 seconds.
+  path: Assets/Resources/KennyAssets/TanksRedux/Vector
+  artifactKey: Guid(9cc729f2ed0a95f47b2d627035ec1000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/KennyAssets/TanksRedux/Vector using Guid(9cc729f2ed0a95f47b2d627035ec1000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0086b81977972367778d8bad7b531f7b') in 0.001820 seconds
+  Import took 0.004345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.941702 seconds.
+  path: Assets/Resources/KennyAssets/TanksRedux/PNG/Default size/treeGreen_large.png
+  artifactKey: Guid(65f7f7f3ef81d344089e740c800932bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/KennyAssets/TanksRedux/PNG/Default size/treeGreen_large.png using Guid(65f7f7f3ef81d344089e740c800932bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bdfe59de03d341d9e58bdcfa9222969') in 0.007108 seconds
+  Import took 0.033917 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001484 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.773 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2404.
+Total: 1.730300 ms (FindLiveObjects: 0.167900 ms CreateObjectMapping: 0.048300 ms MarkObjects: 1.429400 ms  DeleteObjects: 0.084000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 126.218011 seconds.
+  path: Assets/Resources/KennyAssets/TanksRedux/PNG/Default size/barricadeMetal.png
+  artifactKey: Guid(d341384129c262a4b81294537cce435a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/KennyAssets/TanksRedux/PNG/Default size/barricadeMetal.png using Guid(d341384129c262a4b81294537cce435a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7485d7cb84d74fa0f3b00dbcf4d9f74') in 0.040423 seconds
+  Import took 0.043054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003785 seconds.
+  path: Assets/Resources/KennyAssets/TanksRedux/PNG/Default size/barricadeMetal.png
+  artifactKey: Guid(d341384129c262a4b81294537cce435a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/KennyAssets/TanksRedux/PNG/Default size/barricadeMetal.png using Guid(d341384129c262a4b81294537cce435a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7485d7cb84d74fa0f3b00dbcf4d9f74') in 0.005235 seconds
+  Import took 0.007566 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001405 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.782 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.3 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2409.
+Total: 1.726500 ms (FindLiveObjects: 0.163300 ms CreateObjectMapping: 0.062600 ms MarkObjects: 1.406400 ms  DeleteObjects: 0.093200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001282 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.765 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.3 MB.
+System memory in use after: 88.2 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2413.
+Total: 1.915200 ms (FindLiveObjects: 0.194000 ms CreateObjectMapping: 0.069400 ms MarkObjects: 1.529000 ms  DeleteObjects: 0.121900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001245 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.769 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.3 MB.
+System memory in use after: 88.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2417.
+Total: 1.989200 ms (FindLiveObjects: 0.161100 ms CreateObjectMapping: 0.046900 ms MarkObjects: 1.694300 ms  DeleteObjects: 0.086300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2890.425002 seconds.
+  path: Assets/Resources/KennyAssets/GameIcons/Spritesheet/sheet_white2x.png
+  artifactKey: Guid(e7416526e1b2c844192b0bc329f94189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/KennyAssets/GameIcons/Spritesheet/sheet_white2x.png using Guid(e7416526e1b2c844192b0bc329f94189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c782d43cf8d74da077315917137808f6') in 0.061669 seconds
+  Import took 0.065238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.975707 seconds.
+  path: Assets/Resources/KennyAssets/GameIcons/Spritesheet/sheet_white2x.png
+  artifactKey: Guid(e7416526e1b2c844192b0bc329f94189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/KennyAssets/GameIcons/Spritesheet/sheet_white2x.png using Guid(e7416526e1b2c844192b0bc329f94189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cfa33b63f346be0c3c789d63d7e2a6f') in 0.165889 seconds
+  Import took 0.168823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 128.268402 seconds.
+  path: Assets/Resources/KennyAssets/GameIcons
+  artifactKey: Guid(a559fb67b3a5f574fa8a571aa4d4bdd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/KennyAssets/GameIcons using Guid(a559fb67b3a5f574fa8a571aa4d4bdd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e1109fa24123d73361f50e360b8e2ad') in 0.001739 seconds
+  Import took 0.004439 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001381 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.782 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1804 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.4 MB.
+System memory in use after: 88.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2426.
+Total: 2.066000 ms (FindLiveObjects: 0.217700 ms CreateObjectMapping: 0.076200 ms MarkObjects: 1.671600 ms  DeleteObjects: 0.099700 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
